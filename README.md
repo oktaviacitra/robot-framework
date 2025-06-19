@@ -1,4 +1,4 @@
-# Android UI Automation using Robot Framework & Appium
+# Mobile UI Automation using Robot Framework & Appium
 
 This project implements UI test automation for an Android mobile application using the [Robot Framework](https://robotframework.org/) with the [AppiumLibrary](https://github.com/serhatbolsu/robotframework-appiumlibrary). The project is designed with a modular structure to separate static/dynamic data, reusable keywords, and test case definitions—making it easier to maintain and scale.
 
