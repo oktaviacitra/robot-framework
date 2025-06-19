@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Application file
+*.apk
+
+# Robot Framework log files
+output.xml
+log.html
+report.html
+*.log
+*.xml
+*.html
+*.csv
+
+# Robot Framework debug artifacts
+debug.log
+output-debug.xml
+
+# Python virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code & PyCharm
+.vscode/
+.idea/
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Selenium/Browser screenshots or video artifacts (optional)
+screenshots/
+*.png
+*.mp4
+*.webm
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Test results or temporary files
+results/
+tmp/
+temp/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# Node.js (if used for frontend mock or helpers)
+node_modules/
